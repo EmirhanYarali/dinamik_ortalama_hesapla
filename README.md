@@ -1,6 +1,6 @@
 # dinamik_ortalama_hesapla
 
-A new Flutter project.
+Application that gives university GPA based on references (Credit hours,Projected grade)
 
 ## Getting Started
 
